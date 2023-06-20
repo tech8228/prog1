@@ -1,0 +1,1 @@
+copy con text1.txt to write in cmd prompt in windows
